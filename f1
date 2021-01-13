@@ -3,8 +3,12 @@
 <title>HTML Tutorial</title>
 <body>
 
+<<<<<<< HEAD
 <h1>product-branch</h1>
 <p>modify f1 file</p>
+<h1>payment-branch</h1>
+<p>modifed f1 file</p>
+>>>>>>> payment-branch
 
 </body>
 </html>
