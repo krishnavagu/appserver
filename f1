@@ -3,8 +3,16 @@
 <title>HTML Tutorial</title>
 <body>
 
+<<<<<<< HEAD
 <h1> Devops Git Tool </h1>
 <p>This is a paragraph.</p>
+<<<<<<< HEAD
+<h1>product-branch</h1>
+<p>modify f1 file</p>
+<h1>payment-branch</h1>
+<p>modifed f1 file</p>
+>>>>>>> payment-branch
+>>>>>>> product-branch
 
 </body>
 </html>
